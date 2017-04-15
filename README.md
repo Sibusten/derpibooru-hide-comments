@@ -6,4 +6,4 @@ You will need a browser extension for loading userscripts. The reccommended ones
 
 To install the userscript, simply click the link below, or go to the ".user.js" files in the repository and click the "Raw" button in the top right. Your userscript extension should recognize the script and ask if you would like to install it.
 
-[Twitter Image Downloader](/derpibooru-hide-comments.user.js?raw=true)
+[Derpibooru Hide Comments](/derpibooru-hide-comments.user.js?raw=true)
